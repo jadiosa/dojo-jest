@@ -10,5 +10,5 @@ app.get("/add", (req, res) =>{
     });
 });
 
-//exports module
+//exports app module
 module.exports = app;
